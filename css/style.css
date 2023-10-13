@@ -1,0 +1,17 @@
+.navigation-wrapper {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.nav-ul {
+    width: 475px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.bg-image {
+    background-image: url(../images/header-image.jpg);
+}
