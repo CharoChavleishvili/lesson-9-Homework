@@ -42,7 +42,7 @@
 .bgtext1 {
     position: absolute;
     color: #ffffff;
-    margin-left: 200px;
+    margin-left: 170px;
     margin-right: 1038px;
     margin-top: 50px;
     margin-bottom: 118px;
@@ -54,9 +54,9 @@
 .bgtext2 {
     position: absolute;
     color: #ffffff;
-    margin-left: 200px;
+    margin-left: 75px;
     margin-right: 1038px;
-    margin-top: 110px;
+    margin-top: 105px;
     font-size: 14px;
     display: inline-block;
     text-align: center;
@@ -67,18 +67,15 @@
 .bgtext3 {
     position: absolute;
     color: #ffffff;
-    margin-left: 250px;
-    margin-right: 1038px;
-    margin-top: 116px;
+    margin-left: 230px;
+    margin-top: 110px;
     font-size: 14px;
-    display: inline-block;
-    text-align: center;
 }
 
 .bgtext2::after {
     content: " ";
-    width: 2px;
-    height: 18px;
+    width: 1px;
+    height: 15px;
     background-color: #ffffff;
     display: inline-block;
     margin-left: 10px;
