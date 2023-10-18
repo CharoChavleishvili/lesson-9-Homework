@@ -92,10 +92,15 @@
     .div-header {
         margin-left: -185px;
     }
+    .nav-ul {
+        width: 440px;
+        justify-content: space-around;
+    
+    }
     .section1 {
         width: 650px;
         justify-content: center;
-        margin-left: 130px;
+
     }
     .image3 {
         width: 200px;
@@ -103,6 +108,10 @@
     }
     .right-block {
         align-items: center;
+        width: 200px;
+    }
+    .container-child {
+        width: 600px;
     }
 }
 /* 490 */
