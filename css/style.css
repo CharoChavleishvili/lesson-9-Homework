@@ -118,6 +118,7 @@
     background-position: center;
     margin-top: 90px;
     height: auto;
+    padding-bottom: 90px;
     
 }
 .first-div {
@@ -141,7 +142,7 @@
     justify-content: space-between;
     width: 1088px;
     padding-top: 280px;
-    margin-bottom: 90px;
+   
 }
 .block {
     max-width: 260px;

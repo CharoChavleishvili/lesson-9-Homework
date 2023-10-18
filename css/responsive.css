@@ -59,21 +59,4 @@
         flex-direction: column;
         align-items: center;
      }
-     .image3 {
-        width: 260px;
-        height: 185px;
-     }
-     .image1 {
-        margin-left: 10px;
-     }
-     }
-     .block p {
-        width: 100px;
-        font-size: 12px;
-     }
-     
-     .container-child {
-        flex-wrap: wrap;
-        width: 200px;
-        display: flex;
-     }
+    
