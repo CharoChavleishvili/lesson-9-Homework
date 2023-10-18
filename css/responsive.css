@@ -23,7 +23,7 @@
 
 /* mobile */
 /* header */
-@media (max-width: 500px) {
+@media (max-width: 520px) {
     .nav-ul {
         display: none;
     }
@@ -66,4 +66,14 @@
      .image1 {
         margin-left: 10px;
      }
-}
+     }
+     .block p {
+        width: 100px;
+        font-size: 12px;
+     }
+     
+     .container-child {
+        flex-wrap: wrap;
+        width: 200px;
+        display: flex;
+     }

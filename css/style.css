@@ -117,6 +117,7 @@
     background-size: cover;
     background-position: center;
     margin-top: 90px;
+    height: auto;
     
 }
 .first-div {
@@ -145,6 +146,7 @@
 .block {
     max-width: 260px;
     width: 100%;
+    height: auto;
     background-color: #ffffff;   
     display: flex;
     justify-content: center;
