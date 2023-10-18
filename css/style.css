@@ -110,7 +110,7 @@
 /* section2 */
 .ft-image {
     background-image: url(../images/section-image.jpg);
-    height: 612px;
+    height: 700px;
     width: 100%;
     position: relative;
     background-repeat: no-repeat;
@@ -140,6 +140,7 @@
     justify-content: space-between;
     width: 1088px;
     padding-top: 280px;
+    margin-bottom: 90px;
 }
 .block {
     max-width: 260px;
