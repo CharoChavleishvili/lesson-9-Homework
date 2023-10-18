@@ -105,8 +105,8 @@
         align-items: center;
     }
 }
-
-@media (max-width:500px) {
+/* 490 */
+@media (max-width:490px) {
     .nav-ul {
         display: none;
     }
