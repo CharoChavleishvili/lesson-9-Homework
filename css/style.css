@@ -29,7 +29,8 @@
 .div-header {
     position: absolute;
     position: fixed;
-    width: 189px;
+    max-width: 189px;
+    width: 100%;
     color: #ffffff;
     top: 146px;
     left: 200px;

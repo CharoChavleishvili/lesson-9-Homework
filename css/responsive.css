@@ -31,6 +31,15 @@
     .div-header {
         margin-left: -140px;
     }
+    .div-wrapper {
+        width: 800px;
+    }
+    .nav-ul {
+        width: 400px;
+        display: flex;
+        justify-content: space-around;
+        
+    }
     .left-block{
         width: 300px;
     }
@@ -213,9 +222,9 @@
         width: 200px;
         height: 200px;
     }
-    .hotel {
-        width: 100px;
-        height: 100px;
+    .fa-bars {
+        width: 16px;
+        height: 16px;
     }
 }
 
