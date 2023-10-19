@@ -19,8 +19,7 @@
     color: #ffffff;
 }
 .nav-ul {
-    max-width: 559px;
-    width: 100%;
+    width: 559px;
     height: 92px;
     display: flex;
     justify-content: space-around;
@@ -40,7 +39,7 @@
 }
 .div-child-header {
     max-width: 100px;
-    width: ;
+    width: 100%;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -133,9 +132,10 @@
 .first-div {
     position: absolute;
     top: 116px;
-    left: 139px;
+    left: 140px;
     max-width: 369px;
     width: 100%;
+
 }
 .first-div h4 {
     color: #5863F8;
